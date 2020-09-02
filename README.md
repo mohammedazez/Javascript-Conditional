@@ -15,7 +15,4 @@ Javascript Conditional akan memilih kondisi true atau yang benar yang akan dijal
 ## Artikel lain
 
 - ["Memahami 6 Bentuk Percabangan pada Javascript"](https://www.petanikode.com/javascript-percabangan/#readme) - _Petani kode_
-- ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - _Caleb Thompson (thoughtbot)_
-- ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - _Tom Preston-Werner_
-- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - _Adam Stacoviak_
-- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - _KyuWoo Choi_
+- ["Javascript Conditional"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B8B8FF38C-3C3D-4CBF-BA9F-6EEB288F88B6%7D&file=JAVASCRIPT%20-%20CONDITIONAL.pptx&action=edit&mobileredirect=true) - _Materi Belajar_
