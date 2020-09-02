@@ -6,10 +6,10 @@ Javascript Conditional akan memilih kondisi true atau yang benar yang akan dijal
 
 ## Dokumentasi Javascript Conditional
 
-- [JS Conditions](https://www.w3schools.com/js/js_if_else.asp#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [JS Switch](https://www.w3schools.com/js/js_switch.asp#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [JS comparison](https://www.w3schools.com/js/js_comparisons.asp#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-- [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+- [JS Conditions](https://www.w3schools.com/js/js_if_else.asp#readme) - Tulis Deskripsi.
+- [JS Switch](https://www.w3schools.com/js/js_switch.asp#readme) - Tulis Deskripsi.
+- [JS comparison](https://www.w3schools.com/js/js_comparisons.asp#readme) - Tulis Deskripsi.
+- [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator#readme) - Tulis Deskripsi.
 
 
 ## Artikel lain
